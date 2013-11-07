@@ -1,0 +1,33 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"default_line_ending": "unix",
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"SVN",
+		"Additional PHP Snippets",
+		"Xdebug",
+		"GBK Encoding Support",
+		"SublimeCodeIntel",
+		"Jade",
+		"jQuery Snippets pack",
+		"HTML2Jade",
+		"HTMLBeautify",
+		"BracketHighlighter",
+		"Less2Css",
+		"Phpcs",
+		"Thinkphp",
+		"CTags",
+		"Placeholders",
+		"PhpBeautifier",
+		"Emmet",
+		"LESS-build",
+		"Clipboard History"
+	],
+	"margin": 2,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true
+}
